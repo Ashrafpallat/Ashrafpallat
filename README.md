@@ -3,14 +3,14 @@
 
 - 🔭 I’m currently working on **a project**
 
-- 👨‍💻 All of my projects are available at <a href="https://ashrafp.vercel.app" target="blank">My Website</a>
+- 👨‍💻 All of my projects are available at <a href="https://ashrafp.vercel.app" target="_blank">My Website</a>
 
 - 📫 How to reach me **ashrafpallat123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashrafpallat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafpallat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashrafpallat123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashrafpallat123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashrafpallat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafpallat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashrafpallat123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashrafpallat123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
